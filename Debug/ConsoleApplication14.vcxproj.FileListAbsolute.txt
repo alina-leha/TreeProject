@@ -1,0 +1,2 @@
+D:\ConsoleApplication14\Debug\main.exe
+D:\ConsoleApplication14\Debug\main.pdb
